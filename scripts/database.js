@@ -27,19 +27,19 @@ const database = {
             id: 1,
             address: "333 Scissorhands lane",
             size: .25,
-            serviceId :1
+            serviceId :4
         },
         {
             id: 2,
             address: "47 Mars Ave",
             size: 1.25,
-            serviceId :1
+            serviceId :2
         },
         {
             id: 3,
             address: "1600 Pennsylvania Ave",
             size: 3,
-            serviceId :1
+            serviceId :3
         },
         {
             id: 4,
