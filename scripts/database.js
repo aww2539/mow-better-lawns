@@ -47,6 +47,12 @@ const database = {
             size: 1,
             serviceId :1
         },
+        {
+            id: 5,
+            address: "5592 Kuvalis Unions",
+            size: 8,
+            serviceId :4
+        },
     ],
 
     services: [
